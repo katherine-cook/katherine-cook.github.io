@@ -1,2 +1,2 @@
 # katherine-cook.github.io
-This is my website where people can learn about me
+Basic website used for Girls Who Code course instruction. Not intended as a personal website. 
